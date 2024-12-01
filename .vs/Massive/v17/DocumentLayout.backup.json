@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\source\\repos\\Massive\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22F67D94-D869-464B-BB07-BD639DDE0495}|Massive\\Massive.vcxproj|C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\source\\repos\\Massive\\Massive\\Task.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{22F67D94-D869-464B-BB07-BD639DDE0495}|Massive\\Massive.vcxproj|solutionrelative:Massive\\Task.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Task.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\source\\repos\\Massive\\Massive\\Task.cpp",
+              "RelativeDocumentMoniker": "Massive\\Task.cpp",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\source\\repos\\Massive\\Massive\\Task.cpp*",
+              "RelativeToolTip": "Massive\\Task.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-30T18:31:53.249Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
